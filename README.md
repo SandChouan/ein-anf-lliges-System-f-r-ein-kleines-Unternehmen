@@ -1,1 +1,5 @@
-# ein-anf-lliges-System-f-r-ein-kleines-Unternehmen
+# ein-anfaelliges-System-fuer-ein-kleines-Unternehmen
+
+Als ein neu eingestellter Cybersecurity-Analyst für ein E-Commerce-Unternehmen. Das Unternehmen speichert Informationen auf einem entfernten Datenbankserver, da viele der Mitarbeiter von verschiedenen Standorten auf der ganzen Welt aus arbeiten. Die Mitarbeiter des Unternehmens fragen regelmäßig Daten vom Server ab, um potenzielle Kunden zu finden. Die Datenbank ist seit dem Start des Unternehmens vor drei Jahren für die Öffentlichkeit zugänglich. Als Experte für Cybersicherheit erkennen ich, dass die Offenhaltung des Datenbank-Servers für die Öffentlichkeit eine ernsthafte Schwachstelle darstellt.
+
+Ich wurde beauftragt, eine Schwachstellenbewertung der Situation durchzuführen, um die Entscheidungsträger des Unternehmens über die potenziellen Risiken zu informieren. Ich habe einen schriftlichen Bericht erstellen, in dem ich erklärte, inwiefern der anfällige Server ein Risiko für den Geschäftsbetrieb darstellt und wie er gesichert werden kann.
